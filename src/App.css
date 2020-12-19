@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+canvas {
+  border: 1px solid black;
+  border-radius: 4px;
+  margin: 5px;
+}
+
+input, button {
+  display: block;
+  margin: 5px;
+}
+
+.container {
+  display: flex;
+}

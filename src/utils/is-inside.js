@@ -1,0 +1,1 @@
+export const isInside = ({ x, y }, { start, end }) => x >= start.x && x <= end.x && y >= start.y && y <= end.y;
